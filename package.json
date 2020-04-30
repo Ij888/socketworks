@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe over 2 device using websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ij888/socketworks.git"
+  },
+  "author": "ij888",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ij888/socketworks/issues"
+  },
+  "homepage": "https://github.com/Ij888/socketworks#readme"
+}
